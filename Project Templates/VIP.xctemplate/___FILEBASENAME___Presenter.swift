@@ -13,4 +13,6 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_productName___StatePresentable
     // MARK: - Properties
     weak var displayable: ___VARIABLE_productName___Displayable?
 
+    // MARK: - Presentables
+
 }

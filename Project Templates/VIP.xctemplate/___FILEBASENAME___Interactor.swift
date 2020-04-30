@@ -18,4 +18,6 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_productName___InteractableData
     var worker: ___VARIABLE_productName___DataProvidable!
     var presenter: ___VARIABLE_productName___StatePresentable!
 
+    // MARK: - Interactables
+
 }
